@@ -13,15 +13,14 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Simple Systems
-author: Lapo Frati
+title: MetaEvolution
+author: Csenge Petak
 email: ''
 description: >- # this means to ignore newlines until "baseurl:"
-    Definitely not complex systems. Cool maybe. Or somewhat interesting.
-    But definitely not complex ones.
+    Thinking about how evolution evolves.
 baseurl: '/simple-systems' # the subpath of your site, e.g. /blog
 url: '' # the base hostname & protocol for your site, e.g. http://example.com
-github_username: lfrati
+github_username: cpetak
 
 # Build settings
 markdown: kramdown
